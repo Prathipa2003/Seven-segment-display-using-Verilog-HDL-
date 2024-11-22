@@ -29,7 +29,7 @@ Save and Document Results:
 
 Capture screenshots of the waveform and save the simulation logs. These will be included in the lab report.
 
-# OUTPUT 
+# DIAGRAM
 
 ![image](https://github.com/user-attachments/assets/d9d0be29-b6ab-4746-bf76-691d76271056)
 
